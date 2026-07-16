@@ -42,7 +42,7 @@ Business case and P&amp;L management.
 ## EXPERIENCE 
 
 
-Aeris Romania    -    Technical Project Manager 					09/2023 – 03/2026	
+**Aeris Romania    -    Technical Project Manager**					**09/2023 – 03/2026**
 
 Direct management on customer delivery projects during business transition from Ericsson (IOT business division being sold from Ericsson to Aeris I was the first technical PM appointed from Aeris side). 
 
@@ -50,23 +50,23 @@ Managing hands on two streams:  first is project delivery of complex projects fo
 
 Program Management for new product development and other cybersecurity related products and services. 
 
-Nokia Networks Romania -    Domain Technical Manager 			10/2020 – 09/2022
+**Nokia Networks Romania -    Domain Technical Manager** 			**10/2020 – 09/2022**
 
 Deliver Sw Networks Infrastructure projects for multiple customers located in Europe and MEA. Products are Nokia proprietary products based on OpenStack and Kubernetes technologies. 
 
-BRD Group - Technical Project Manager 				06/2020 – 10/2020		
+**BRD Group - Technical Project Manager** 				**06/2020 – 10/2020**		
 
 Deliver a spin-off program from IT perspective: migrate core banking system applications for a group company that was sold to a different entity. It was a fixed term project contract. 
 
-HCL Technologies for PEPSICO EUROPE - Technical Delivery Manager 	01/2019 – 01/2020		
+HCL Technologies for PEPSICO EUROPE - Technical Delivery Manager 	**01/2019 – 01/2020**		
 
 Deliver Infrastructure projects for a large Automation system dedicated to PepsiCo plant in Romania (includes networking part, server-side integration, support model creation for operations) – working with on shore and offshore teams. 
 
 Deliver Network project for a New Site in PepsiCo Romania – greenfield project - new warehouse deployment and its integration into logistic and customer support applications. 
 
-Vodafone Romania Technologies / Vodafone Shared Service Center  
+**Vodafone Romania Technologies / Vodafone Shared Service Center**  
 
-IT Delivery and Transformation Manager, Robotics IT Program 		07/2016 – 09/2018							
+**IT Delivery and Transformation Manager, Robotics IT Program**  		**07/2016 – 09/2018**							
 
 Delivery of first robotic automation project within Finance vertical (Treasury Cash Management) using Blue Prism over one of the biggest SAP implementations worldwide, continue in building the robotic pipeline across Vodafone Shared Service Centers.
 
@@ -76,7 +76,7 @@ Ongoing delivery of projects for service centers and also local markets with fol
 
 Recruitment of RPA internal workforce (mainly in Pune, India) plus onboarding and enablement of internal workforce (includes training for offshore centers) 40 people
 
-OMV / Petrom SA – Global Solutions OPM – Line Manager																07/2013 – 10/2015
+**OMV / Petrom SA – Global Solutions OPM – Line Manager**																**07/2013 – 10/2015**
 
 As Line Manager I directed an International operational Project Office – 10 PMs and 40 projects in pipeline.
 
@@ -88,7 +88,7 @@ Management of inventory – work in progress and capitalized expenses – approx
 
 Coordinated more than 5 large tenders, with resources from several departments/countries.
 
-OMV / Petrom SA – Global Solutions - Senior Project Manager			08/2009 –06/2013
+**OMV / Petrom SA – Global Solutions - Senior Project Manager**			**08/2009 –06/2013**
 
 Major Project figures:
 
@@ -104,13 +104,13 @@ Large, multiple applications projects dedicated to business reorganization in Ro
 
 Work over &amp; well intervention optimization project. Training for more than 900 people, field services integrated. (2012-2013)
 
-Nortel Networks - Project Manager / Service Account Manager			07/2008 –08/2009
+**Nortel Networks - Project Manager / Service Account Manager**			**07/2008 –08/2009**
 
 September 2008 - Big transmission network material (215 nodes) delivered and achieving revenue target Revenue 6M USD, team of 5 international colleagues.
 
 December 2008 – Large optical network (10G, 56 nodes) delivered and integrated within field existing infrastructure (Technical project design done in Canada, produced in various countries by different suppliers, commissioned in Ireland hub, shipped in Romania and installed in 56 Romanian sites). Revenue 5,7M USD. Team of 15 international and local colleagues.
 
-Vodafone Romania SA 	- various roles -					(07/1998-06/2008)
+**Vodafone Romania SA** 	- various roles -					**(07/1998-06/2008)**
 
 Demand Manager PMO, PM, Project Analyst, Operational Analyst. 
 
