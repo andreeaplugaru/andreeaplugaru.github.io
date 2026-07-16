@@ -118,12 +118,12 @@ Major Project figures:
 ## SKILL SET 
 
 
-  Leadership &amp; People Management: Team leadership and development; talent acquisition, onboarding and performance management; coaching and mentoring of project managers and technical staff; stakeholder management at C-level; cross-cultural team integration (Romania, Europe, India, Egypt, Middle East, South Africa USA); change management and organizational transformation.
+  **Leadership &amp; People Management**: Team leadership and development; talent acquisition, onboarding and performance management; coaching and mentoring of project managers and technical staff; stakeholder management at C-level; cross-cultural team integration (Romania, Europe, India, Egypt, Middle East, South Africa USA); change management and organizational transformation.
 
-  AI, Automation &amp; Digital Transformation: Hands-on RPA program delivery and operations (Blue Prism, UiPath); AI tools integration into business services; end-to-end automation lifecycle (opportunity assessment, business case, build, transition to BAU); robotic operations support model design; IoT product development and lifecycle management; cybersecurity product development.
+  **AI, Automation &amp; Digital Transformation**: Hands-on RPA program delivery and operations (Blue Prism, UiPath); AI tools integration into business services; end-to-end automation lifecycle (opportunity assessment, business case, build, transition to BAU); robotic operations support model design; IoT product development and lifecycle management; cybersecurity product development.
 
-  Management &amp; Business Skills: Project and program management (Prince2, IPMA); P&amp;L accountability (up to $6M); portfolio and demand management; vendor and supplier management; tender and procurement management; business case development; strategic planning and alignment; customer account management; process design and re-engineering; SLA and KPI governance.
+  **Management &amp; Business Skills**: Project and program management (Prince2, IPMA); P&amp;L accountability (up to $6M); portfolio and demand management; vendor and supplier management; tender and procurement management; business case development; strategic planning and alignment; customer account management; process design and re-engineering; SLA and KPI governance.
 
-  Technical Domain Knowledge: Telecom and IT infrastructure networks (5G, CISCO, OpenStack, Kubernetes); ERP systems (SAP, Oracle Financials, BSS); databases and real-time monitoring applications; BPM workflows; network, connectivity and security systems; productivity and collaboration tools (Office 365, SharePoint, Jira, Confluence, Visio); ITIL V3 service management.
+  **Technical Domain Knowledge**: Telecom and IT infrastructure networks (5G, CISCO, OpenStack, Kubernetes); ERP systems (SAP, Oracle Financials, BSS); databases and real-time monitoring applications; BPM workflows; network, connectivity and security systems; productivity and collaboration tools (Office 365, SharePoint, Jira, Confluence, Visio); ITIL V3 service management.
 
-  EMBA, ITIL, Prince2 Practitioner, IPMA certifications
+  **EMBA, ITIL, Prince2 Practitioner, IPMA certifications**
